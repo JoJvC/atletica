@@ -4,21 +4,15 @@ body {
     margin: 0%;
     background-color: aliceblue;
 }
-
+/* 
 main {
     min-height: 80vh;
-}
-
-
-
+} */
 
 
 .font {
     font-family: 'Roboto', sans-serif;
 }
-
-
-
 
 /* FOOTER */
 footer {
@@ -51,11 +45,11 @@ header {
 
 #redeSocialHeader {
     display: flex;
-    align-items: center;    
+    align-items: center;
 }
 
-#redeSocialHeader a{
-   margin: 5%;   
+#redeSocialHeader a {
+    margin-left: 5%;
 }
 
 
